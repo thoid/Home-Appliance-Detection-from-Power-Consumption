@@ -9,7 +9,7 @@ This school project was done in partnership with the GEEPS at CentraleSupelec.
 For a detailed overview of the project, you can view our presentation [here](https://github.com/thoid/Home-Appliance-Detection-from-Power-Consumption/blob/main/Soutenance.pptx) in French.
 
 ## Authors
-Thomas IDIER
-David ABEHSERA
-Thomas BRIONNE
+-Thomas IDIER
+-David ABEHSERA
+-Thomas BRIONNE
 
